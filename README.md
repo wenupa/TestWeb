@@ -2,7 +2,7 @@
  
 ![banner08BLlogo](https://user-images.githubusercontent.com/38062348/135741281-aac35470-24c9-409d-87f5-94f5ac98d542.png)
 
-## Create your first pull request :sunglasses:
+## Create your first pull request.
 
 > [Fork this repository](https://help.github.com/articles/fork-a-repo/)
 
